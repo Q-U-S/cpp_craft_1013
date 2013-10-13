@@ -1,0 +1,2 @@
+/home/qus/Projects/CppUp/CMakeTest/tmp/CMakeFiles/foo.dir
+/home/qus/Projects/CppUp/CMakeTest/tmp/CMakeFiles/hello.dir

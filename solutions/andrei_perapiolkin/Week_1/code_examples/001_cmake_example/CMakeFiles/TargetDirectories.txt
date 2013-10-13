@@ -1,0 +1,5 @@
+/home/qus/Projects/CppUp/Week_1/code_examples/001_cmake_example/sources/functions/CMakeFiles/functions.dir
+/home/qus/Projects/CppUp/Week_1/code_examples/001_cmake_example/sources/hello_world/CMakeFiles/hello_world.dir
+/home/qus/Projects/CppUp/Week_1/code_examples/001_cmake_example/sources/pointers/CMakeFiles/pointers.dir
+/home/qus/Projects/CppUp/Week_1/code_examples/001_cmake_example/sources/read_file/CMakeFiles/read_file.dir
+/home/qus/Projects/CppUp/Week_1/code_examples/001_cmake_example/sources/write_file/CMakeFiles/write_file.dir
